@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = Flask(_name_)
+app = FLASK(_name_)
 
 @app.route("/info")
 def rohaninfo():
