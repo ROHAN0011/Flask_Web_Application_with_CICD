@@ -1,6 +1,6 @@
 from flask import Flask
 
-app = FLASK(_name_)
+app = Flask(_name_)
 
 @app.route("/info")
 def rohaninfo():
@@ -8,6 +8,6 @@ def rohaninfo():
 
 @app.route("/contact")
 def rohancontact():
-	return "9172148"
+	return "11223"
 
 app.run(host="0.0.0.0")
