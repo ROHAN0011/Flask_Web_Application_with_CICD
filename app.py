@@ -8,6 +8,6 @@ def rohaninfo():
 
 @app.route("/contact")
 def rohancontact():
-	return "404"
+	return "404404404"
 
 app.run(host="0.0.0.0")
