@@ -6,5 +6,5 @@
 
 If you are facing any technical issues, bugs or want to suggest me area of improvements regarding this or my any another repositories/projects feel free to contacting me on my LinkedIn account. I mentioned it on my GitHub profile. Thank you!
 
-<p align= "center"><img src="https://github.com/ROHAN0011/Flask_Web_Application_with_CICD/blob/https://github.com/ROHAN0011/Flask_Web_Application_with_CICD/blob/1b96e23bf0b7c8cab6e377a97ce0ca9a570906b5/Architecture%20of%20Flask_Web_Application_with_CICD.png" width="800" height= "400"></p>
+<p align= "center"><img src="https://github.com/ROHAN0011/Flask_Web_Application_with_CICD/blob/main/Architecture%20of%20Flask_Web_Application_with_CICD.png" width="700" height= "350"></p>
 
