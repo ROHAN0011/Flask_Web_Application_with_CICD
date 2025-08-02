@@ -1,7 +1,7 @@
 # \# Flask\_Web\_Application\_with\_CICD
 
 
-<h3>This is the beginner level DevOps project. Very good for the students and the tech freshers who wants to build their carrier in DevOps domain</h3>
+<h3>This is the *Beginner Level* DevOps project. Very good for the students and the tech freshers who wants to build their carrier in DevOps domain</h3>
 
 <h2>Learn.......Practice........Apply</h2>
 
