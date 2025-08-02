@@ -8,11 +8,11 @@
 If you are facing any technical issues, bugs or want to suggest me area of improvements regarding this or my any another repositories/projects feel free to contacting me on my LinkedIn account. I mentioned it on my GitHub profile. Thank you!
 
 
-<h4>(1) Created a Flask web application with multiple routes.</h4>
-(2) Writen unit tests using pytest framework
-(3) Set up Docker containerization
-(4) Configured Jenkins CI/CD pipeline
-(5) Deployed to AWS EC2 with automated rollback
+<h4>(1) Created a Flask web application with multiple routes.
+(2) Writen unit tests using pytest framework.
+(3) Set up Docker containerization.
+(4) Configured Jenkins CI/CD pipeline.
+(5) Deployed to AWS EC2 with automated rollback.</h4>
 
 <p align= "center"><img src="https://github.com/ROHAN0011/Flask_Web_Application_with_CICD/blob/main/Architecture%20of%20Flask_Web_Application_with_CICD.png" width="700" height= "350"></p>
 
