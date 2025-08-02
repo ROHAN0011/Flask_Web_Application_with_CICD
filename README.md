@@ -8,7 +8,7 @@
 If you are facing any technical issues, bugs or want to suggest me area of improvements regarding this or my any another repositories/projects feel free to contacting me on my LinkedIn account. I mentioned it on my GitHub profile. Thank you!
 
 
-(1) Created a Flask web application with multiple routes.
+<h4>(1) Created a Flask web application with multiple routes.</h4>
 (2) Writen unit tests using pytest framework
 (3) Set up Docker containerization
 (4) Configured Jenkins CI/CD pipeline
