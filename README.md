@@ -9,8 +9,8 @@ If you are facing any technical issues, bugs or want to suggest me area of impro
 
 <p align= "center"><img src="https://github.com/ROHAN0011/Flask_Web_Application_with_CICD/blob/main/Architecture%20of%20Flask_Web_Application_with_CICD.png" width="1000" height="600"></p>
 
-<h4>What I have done in this project :<br>
-(1) Created a Flask web application with multiple routes.<br>
+<h3>Implementation Steps :</h3>
+<h4>(1) Created a Flask web application with multiple routes.<br>
 (2) Writen unit tests using pytest framework.<br>
 (3) Set up Docker containerization.<br>
 (4) Configured Jenkins CI/CD pipeline.<br>
